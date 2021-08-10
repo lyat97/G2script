@@ -1,5 +1,5 @@
 #!/bin/bash
-filewebsite="http://192.168.19.19/script/gpi2_script"
+filewebsite="https://raw.githubusercontent.com/lyat97/G2script/main"
 sleep 2s
 #Step 1) Check if root--------------------------------------
 if [[ $EUID -ne 0 ]]; then
