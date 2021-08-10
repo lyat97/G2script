@@ -11,7 +11,7 @@ For RetroPie4.7.1:
 wget -O - "https://raw.githubusercontent.com/lyat97/G2script/main/retropie_install_gpi2.sh" | sudo bash
 
 --------------------
-For Recalbox7.1.1
+Only for Recalbox7.1.1
 1. Make sure internet connected.
 2. Make sure keyboard connected.
 3. Press F4 first. And then press ALT-F2 enter terminal.
@@ -21,7 +21,7 @@ For Recalbox7.1.1
 wget -O - "https://raw.githubusercontent.com/lyat97/G2script/main/recalbox_install_gpi2.sh" | bash
 
 
-/*--------------------
+--------------------
 
 Example for batocera31:
 1. Make sure internet connected.
