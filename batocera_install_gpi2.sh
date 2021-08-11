@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SourcePath=http://192.168.19.19/script/gpi2_script
+SourcePath=https://raw.githubusercontent.com/lyat97/G2script/main
 
 #-----------------------------------------------------------
 sleep 2s
